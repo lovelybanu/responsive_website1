@@ -1,0 +1,63 @@
+.logo{
+    width: 100px;
+}
+.navbar-nav .nav-link{
+    color: black;
+    display: flex;
+    justify-content: flex-end;
+}
+.fa-code{
+    font-size: 40px;
+    color: orange;
+    margin-bottom: 5px;
+}
+.fa-bootstrap{
+    font-size: 40px;
+    color: darkblue;
+    margin-bottom: 5px;
+}
+.fa-css3-alt{
+    font-size: 40px;
+    color: blue;
+    margin-bottom: 5px;
+}
+.gif-button{
+    width: 100%;
+    border-radius: 1em;
+    border: none;
+    transition: background-color 0.3s;
+}
+.gif-button:hover{
+    background-color: black;
+    color: white;
+}
+.gif{
+    max-width: 100%;
+}
+.fa-brands{
+    background-color: blue;
+    color: white;
+    font-size: 2em;
+    padding: 10px;
+    border-radius: 50%;
+    margin-top:10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    transition: opacity 0.4s;
+}
+.fa-whatsapp{
+      background-color: green;
+      
+}
+.fa-instagram{
+    background-image: linear-gradient(to left top ,#feda75,#fa7e1e,#d62976,#962fbf, #4f5bd5 ); 
+}
+.fa-brands:hover{
+    opacity: 50%;
+    transform: translateY(-15%);
+}
+footer{
+    background-color: rgb(43, 41, 41);
+    color: white;
+    margin-top: 1em;
+}
